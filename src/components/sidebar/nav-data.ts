@@ -1,4 +1,4 @@
-import { NavItem } from "types/Nav-Item";
+import { NavItem } from "types/nav-item";
 import {
   FaCompass,
   FaDatabase,
